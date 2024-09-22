@@ -3,7 +3,7 @@
         font-family: 'Poppins', sans-serif;
         margin: 0;
         padding: 0;
-        background-color: #faf7fa;
+        background-color: #07a8f8;
         }
 
         header {
@@ -42,7 +42,7 @@
         }
 
         #about {
-        background-color: #fc08e7;
+        background-color: #04f8f8;
         }
 
         #tokenomics {
@@ -50,7 +50,7 @@
         }
 
         #charity {
-        background-color: #fa05fa;
+        background-color: #d105fa;
         }
 
         #roadmap {
@@ -58,18 +58,18 @@
         }
 
         h2 {
-        color: #f5576c;
+        color: #080808;
         }
 
         footer {
-        background-color: #333;
-        color: white;
+        background-color: #06f0f8;
+        color: rgb(14, 13, 13);
         padding: 1rem;
         text-align: center;
         }
 
         footer a {
-        color: #f093fb;
+        color: #04faee;
         text-decoration: none;
         }
 
