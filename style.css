@@ -16,7 +16,7 @@
         nav ul {
         list-style-type: none;
         padding: 0;
-        background-color: #f805e4;
+        background-color: #04f8f8;
         display: flex;
         justify-content: center;
         box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -33,7 +33,7 @@
         }
 
         nav ul li a:hover {
-        color: #2a06f5;
+        color: #f6fa06;
         }
 
         section {
@@ -46,11 +46,11 @@
         }
 
         #tokenomics {
-        background-color: #d1f504;
+        background-color: #07f31a;
         }
 
         #charity {
-        background-color: #d105fa;
+        background-color: #f6fa06;
         }
 
         #roadmap {
@@ -62,14 +62,14 @@
         }
 
         footer {
-        background-color: #06f0f8;
+        background-color: #d5d9da;
         color: rgb(14, 13, 13);
         padding: 1rem;
         text-align: center;
         }
 
         footer a {
-        color: #04faee;
+        color: #0853f7;
         text-decoration: none;
         }
 
