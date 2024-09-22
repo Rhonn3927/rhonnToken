@@ -1,77 +1,77 @@
- body {
-            font-family: 'Poppins', sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f9f9f9;
-        }
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f805e4;
+}
 
-        header {
-            background: linear-gradient(135deg, #f093fb, #f5576c);
-            color: white;
-            text-align: center;
-            padding: 2rem;
-        }
+header {
+    background: linear-gradient(135deg, #aff803, #02f8c3);
+    color: rgb(249, 253, 4);
+    text-align: center;
+    padding: 2rem;
+}
 
-        nav ul {
-            list-style-type: none;
-            padding: 0;
-            background-color: #fff;
-            display: flex;
-            justify-content: center;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-        }
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    background-color: #f805e4;
+    display: flex;
+    justify-content: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
 
-        nav ul li {
-            margin: 0 15px;
-        }
+nav ul li {
+    margin: 0 15px;
+}
 
-        nav ul li a {
-            text-decoration: none;
-            color: #333;
-            font-weight: 600;
-        }
+nav ul li a {
+    text-decoration: none;
+    color: #333;
+    font-weight: 600;
+}
 
-        nav ul li a:hover {
-            color: #f5576c;
-        }
+nav ul li a:hover {
+    color: #2a06f5;
+}
 
-        section {
-            padding: 2rem;
-            text-align: center;
-        }
+section {
+    padding: 2rem;
+    text-align: center;
+}
 
-        #about {
-            background-color: #ffe0e9;
-        }
+#about {
+    background-color: #fc08e7;
+}
 
-        #tokenomics {
-            background-color: #e0f7fa;
-        }
+#tokenomics {
+    background-color: #d1f504;
+}
 
-        #charity {
-            background-color: #e1bee7;
-        }
+#charity {
+    background-color: #fa05fa;
+}
 
-        #roadmap {
-            background-color: #dcedc8;
-        }
+#roadmap {
+    background-color: #72f705;
+}
 
-        h2 {
-            color: #f5576c;
-        }
+h2 {
+    color: #f5576c;
+}
 
-        footer {
-            background-color: #333;
-            color: white;
-            padding: 1rem;
-            text-align: center;
-        }
+footer {
+    background-color: #333;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+}
 
-        footer a {
-            color: #f093fb;
-            text-decoration: none;
-        }
+footer a {
+    color: #f093fb;
+    text-decoration: none;
+}
 
-        footer a:hover {
-            text-decoration: underline;
-        }
+footer a:hover {
+    text-decoration: underline;
+}
