@@ -3,12 +3,12 @@
         font-family: 'Poppins', sans-serif;
         margin: 0;
         padding: 0;
-        background-color: #f805e4;
+        background-color: #faf7fa;
         }
 
         header {
         background: linear-gradient(135deg, #aff803, #02f8c3);
-        color: rgb(249, 253, 4);
+        color: rgb(8, 8, 8);
         text-align: center;
         padding: 2rem;
         }
